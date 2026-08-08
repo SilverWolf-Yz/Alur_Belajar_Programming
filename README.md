@@ -11,8 +11,9 @@ Di bawah ini adalah alur materi yang sedang dan akan saya pelajari:
 *   **[🟢 Berjalan] Belajar Python Dasar**
     *   Status: Selesai 10 Bab pertama (Dasar-dasar sintaksis, tipe data, dan logika dasar).
     *   Lokasi Folder: [`📂 Belajar Python Dasar`](./Belajar%20Python%20Dasar/)
-*   **[🟡 Mendatang] Python Object-Oriented Programming (OOP)**
+*   **[🟢 Berjalan] Python Object-Oriented Programming (OOP)**
     *   Rencana: Mempelajari Class, Object, Inheritance, dan Polymorphism.
+    *   Lokasi Folder: ['📂 Belajar OOP'](./Belajar%20OOP/)
 *   **[🟡 Mendatang] HTML & CSS**
     *   Rencana: Mempelajari dasar-dasar struktur web dan desain tampilan (styling).
 
