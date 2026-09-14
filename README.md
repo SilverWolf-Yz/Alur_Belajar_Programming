@@ -14,8 +14,6 @@ Di bawah ini adalah alur materi yang sedang dan akan saya pelajari:
 *   **[🟢 Berjalan] Python Object-Oriented Programming (OOP)**
     *   Rencana: Mempelajari Class, Object, Inheritance, dan Polymorphism.
     *   Lokasi Folder: ['📂 Belajar OOP'](./Belajar%20OOP/)
-*   **[🟡 Mendatang] HTML & CSS**
-    *   Rencana: Mempelajari dasar-dasar struktur web dan desain tampilan (styling).
 
 ---
 
